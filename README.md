@@ -2,4 +2,4 @@
 
 ## Sign In Screen
 
-<img src="https://prnt.sc/dduIGVplMqrZ">
+<img src="sign-in.png">
